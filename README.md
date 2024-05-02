@@ -18,9 +18,9 @@ Generate Profit/Loss
 Store Customer Data
 
 ### Requirements
-MySQL 4.1.1+
-PHP 5.3.2+
-a webserver (Xampp control panel )
+- MySQL 4.1.1+
+- PHP 5.3.2+
+- a webserver (Xampp control panel )
 
 ### Screenshots
 ![Login](https://github.com/patilvikas580/Fertilizer-Management-System/assets/84447249/07ef56ac-abb3-4221-afb7-4f25715832fb)
