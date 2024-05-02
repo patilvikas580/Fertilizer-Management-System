@@ -5,22 +5,24 @@ Upload files to your web server
 Import fertilizershop.sql to your database
 Set database name, username, password for database
 START USING IT! Login with username: admin and password: admin
-Used technologies
+### Used technologies
 PHP
 HTML
 CSS
 MYSQL
-Features
+### Features
 Store the Fertilizer Data
 Retrive data
 Generate Bill
 Generate Profit/Loss
 Store Customer Data
 
-Requirements
+### Requirements
 MySQL 4.1.1+
 PHP 5.3.2+
 a webserver (Xampp control panel )
+
+### Screenshots
 ![Login](https://github.com/patilvikas580/Fertilizer-Management-System/assets/84447249/07ef56ac-abb3-4221-afb7-4f25715832fb)
 
 ![Admin p](https://github.com/patilvikas580/Fertilizer-Management-System/assets/84447249/6c6f8f54-609a-4113-a353-627100e1ccaa)
