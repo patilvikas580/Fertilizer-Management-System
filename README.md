@@ -1,21 +1,21 @@
 # Fertilizer-Management-System
 ### This is comprehensive retail management system. This system efficiently handles data storage and retrieval tasks, leveraging database technology to ensure reliable and secure management of shop-related information.
 ### Installation
-Upload files to your web server
-Import fertilizershop.sql to your database
-Set database name, username, password for database
-START USING IT! Login with username: admin and password: admin
+- Upload files to your web server
+- Import fertilizershop.sql to your database
+- Set database name, username, password for database
+- START USING IT! Login with username: admin and password: admin
 ### Used technologies
-PHP
-HTML
-CSS
-MYSQL
+- PHP
+- HTML
+- CSS
+- MYSQL
 ### Features
-Store the Fertilizer Data
-Retrive data
-Generate Bill
-Generate Profit/Loss
-Store Customer Data
+- Store the Fertilizer Data
+- Retrive data
+- Generate Bill
+- Generate Profit/Loss
+- Store Customer Data
 
 ### Requirements
 - MySQL 4.1.1+
