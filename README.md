@@ -1,6 +1,6 @@
 # Fertilizer-Management-System
 ### This is comprehensive retail management system. This system efficiently handles data storage and retrieval tasks, leveraging database technology to ensure reliable and secure management of shop-related information.
-[^1]:Installation
+### Installation
 Upload files to your web server
 Import fertilizershop.sql to your database
 Set database name, username, password for database
